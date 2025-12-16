@@ -5,6 +5,7 @@
 Flutter GitHub Repository Explorer is a Flutter application that allows users to search GitHub repositories dynamically and view the **top 50 repositories** based on popularity.
 The app supports **offline browsing**, **sorting**, **pull-to-refresh**, and **detailed user profiles** fetched directly from the GitHub API.
 
+---
 ✨ Key Features
 
 🔍 Search GitHub repositories with any keyword
@@ -16,7 +17,7 @@ The app supports **offline browsing**, **sorting**, **pull-to-refresh**, and **d
 🎨 Clean, responsive UI for mobile & tablet
 🧠 Clean architecture with GetX state management
 
-
+---
  ▶️ How to Run the App
 
 ### Prerequisites
